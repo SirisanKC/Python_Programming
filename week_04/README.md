@@ -123,5 +123,4 @@ This calculator can perform the following functions:
 ## License
 
 This repository is intended for **educational purposes only**.
-```
 
