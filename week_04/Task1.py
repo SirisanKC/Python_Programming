@@ -7,8 +7,8 @@ for i in range (start, end+1):
     
 
 print("\nImplementation with a while loop:")
-x = 1;
-while x<=10:
+x = start;
+while x<=end:
     print(x, end= "  ")
     x+=1
     
