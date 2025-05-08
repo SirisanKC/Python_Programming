@@ -129,7 +129,6 @@ Bye.
 This repository is intended for **educational purposes only**.
 ```
 
----
 
 Let me know if you’d like this README bundled with code templates or a zip-ready project layout.
 
