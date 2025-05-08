@@ -123,6 +123,5 @@ Ensure the following functions are defined **with exact names and parameters**:
 This repository is for **educational purposes only**.
 ```
 
----
 
 Let me know if you’d like all `README.md` files bundled into one document or project archive.
