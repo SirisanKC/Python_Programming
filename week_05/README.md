@@ -69,7 +69,7 @@ The first string can be found in the second string.
 
 ---
 
-### ✅ L05-T4: Compressed String *(Submit to CodeGrade)*
+### ✅ L05-T4: Compressed String 
 
 - Compress a string using run-length encoding (e.g., `A13H3E2M`).
 - Only add counts if greater than 1.
@@ -90,7 +90,7 @@ Compressing ratio 0.37
 
 ---
 
-### ✅ L05-T5: Modular Calculator *(Submit to CodeGrade)*
+### ✅ L05-T5: Modular Calculator 
 
 Extend your previous calculator using modular functions:
 
